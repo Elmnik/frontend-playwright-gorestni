@@ -1,0 +1,19 @@
+{
+  "name": "playwright-gorest-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "playwright": "^1.51.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
+
